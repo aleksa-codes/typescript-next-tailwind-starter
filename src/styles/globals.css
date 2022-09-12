@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#__next {
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
+  height: 100%;
+}
