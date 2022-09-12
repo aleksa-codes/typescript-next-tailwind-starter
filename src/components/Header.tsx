@@ -4,16 +4,16 @@ import { useState } from 'react';
 
 const navItems = [
   {
-    href: '/menu1',
-    label: 'Menu 1'
+    href: '/page1',
+    label: 'Page 1'
   },
   {
-    href: '/menu2',
-    label: 'Menu 2'
+    href: '/page2',
+    label: 'Page 2'
   },
   {
-    href: '/menu3',
-    label: 'Menu 3'
+    href: '/page3',
+    label: '404'
   }
 ];
 
