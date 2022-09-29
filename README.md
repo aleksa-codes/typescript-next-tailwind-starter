@@ -67,4 +67,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Credit
 
-Made by [aleksa.codes](https://aleksa.codes) 💻 Feel free to use it for your projects. If you find it useful, please consider starring the repo. 🙏
+Made by [aleksa.codes](https://aleksa.codes) 💻
+Feel free to use it for your projects. If you find it useful, please consider starring the repo. 🙏
