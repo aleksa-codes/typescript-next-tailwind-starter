@@ -21,6 +21,8 @@ Hope you find it useful! 🙌
 
 The template uses yarn as the package manager. If you prefer npm, you can delete the `yarn.lock` file and run `npm install` instead to generate a new `package-lock.json` file.
 
+If you need something more complex for your application than this starter, I recommend checking out: [create-t3-app](https://create.t3.gg/)
+
 ## Getting Started
 
 First, run the development server:
