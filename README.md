@@ -13,6 +13,7 @@ Hope you find it useful! 🙌
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- Beautiful ✨Typographic defaults for HTML✨ elements using [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin)
 - Automatic ✨Tailwind Class Sorting✨ with Prettier using [prettier-plugin-tailwindcss](https://tailwindcss.com/blog/automatic-class-sorting-with-prettier)
 - Simple components/pages examples (delete them if you want):
   - Layout, Header, Footer and Counter example components
