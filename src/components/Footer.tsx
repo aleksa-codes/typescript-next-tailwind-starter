@@ -41,7 +41,7 @@ const Footer = () => {
         </a>{' '}
         ={' '}
         <a
-          href='https://www.github.com/aleksastojsic/typescript-next-tailwind-start'
+          href='https://www.github.com/aleksa-codes/typescript-next-tailwind-start'
           className='underline'
           target='_blank'
           rel='noopener noreferrer'
