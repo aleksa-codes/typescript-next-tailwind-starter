@@ -23,18 +23,17 @@ const Header = () => {
   return (
     <nav>
       <div className='flex flex-row items-center justify-between py-4 md:py-8'>
-        <Link href='/'>
-          <a className='flex items-center gap-4 font-bold hover:underline md:text-2xl'>
-            Logo
-          </a>
+        <Link
+          href='/'
+          className='flex items-center gap-4 font-bold hover:underline md:text-2xl'
+        >
+          Logo
         </Link>
         <div className='flex flex-row items-center'>
           <ul className='hidden p-0 md:flex md:flex-row md:gap-8'>
             {navItems.map(({ href, label }) => (
               <li key={href}>
-                <Link href={href}>
-                  <a>{label}</a>
-                </Link>
+                <Link href={href}>{label}</Link>
               </li>
             ))}
           </ul>
@@ -72,7 +71,7 @@ const Header = () => {
           <div className='bg-base-100 flex flex-col items-center gap-4 p-4 md:hidden'>
             {navItems.map(({ href, label }) => (
               <Link href={href} key={href}>
-                <a>{label}</a>
+                {label}
               </Link>
             ))}
           </div>
