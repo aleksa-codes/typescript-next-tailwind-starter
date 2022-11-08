@@ -1,4 +1,4 @@
-# Next.js | TypeScript | Tailwind CSS - Starter Template 🚀
+# Next.js • TypeScript • Tailwind CSS - Starter Template 🚀
 
 Kickstart your Next.js project with this ready-to-use template. It includes everything you need to build a modern website or web app.
 
